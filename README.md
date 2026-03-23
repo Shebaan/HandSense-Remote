@@ -12,11 +12,11 @@ Most media controllers rely on hardware or cloud-based voice assistants. HandSen
 ## Features
 [ ] Real-time Landmark Tracking: 21-point hand coordinate mapping at 30+ FPS.
 
-[ ] Dynamic Gesture Mapping: - Pinch: Volume Control (Vertical movement).
+[ ] Dynamic Gesture Mapping: 
 
-    Open Palm: Play / Pause.
-
-    Swipe: Track Navigation.
+    Index finger pinch + slide up/down: Volume control
+    Middle finger pinch: Pause/Play Spotify
+    
 
 [ ] System-Level Integration: Direct communication with macOS via AppleScript and PyObjC.
 
